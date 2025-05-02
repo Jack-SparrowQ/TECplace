@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6C8vUguK08=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Carlo\\source\\repos\\LoginModule\\AutenthicModule\\AutenthicModule.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Login no es compatible con net8.0 (.NETCoreApp,Version=v8.0). El proyecto Login admite: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Login",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

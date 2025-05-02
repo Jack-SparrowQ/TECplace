@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\bin\Debug\net8.0\AutenthicModule.deps.json
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\bin\Debug\net8.0\AutenthicModule.dll
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\bin\Debug\net8.0\AutenthicModule.pdb
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.dll
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\refint\AutenthicModule.dll
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\AutenthicModule.pdb
+C:\Users\Carlo\source\repos\LoginModule\AutenthicModule\obj\Debug\net8.0\ref\AutenthicModule.dll
