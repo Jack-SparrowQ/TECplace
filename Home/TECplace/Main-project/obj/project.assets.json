@@ -176,11 +176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\Main-project\\Main-project.csproj",
+      "projectUniqueName": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\Main-project\\Main-project.csproj",
       "projectName": "Main-project",
-      "projectPath": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\Main-project\\Main-project.csproj",
+      "projectPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\Main-project\\Main-project.csproj",
       "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\Main-project\\obj\\",
+      "outputPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\Main-project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,11 +202,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\FeedModule\\FeedModule.csproj": {
-              "projectPath": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\FeedModule\\FeedModule.csproj"
+            "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\FeedModule\\FeedModule.csproj": {
+              "projectPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\FeedModule\\FeedModule.csproj"
             },
-            "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\PostModule\\PostModule.csproj": {
-              "projectPath": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\PostModule\\PostModule.csproj"
+            "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\PostModule\\PostModule.csproj": {
+              "projectPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\PostModule\\PostModule.csproj"
             }
           }
         }

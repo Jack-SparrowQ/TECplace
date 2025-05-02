@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FeedModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb586ed9b2c7d518c27c56b143a8bda52d2ec5ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("FeedModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FeedModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

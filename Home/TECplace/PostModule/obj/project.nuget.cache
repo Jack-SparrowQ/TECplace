@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZTeacI9cs8=",
+  "dgSpecHash": "hUWwAoxPONM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlo\\source\\repos\\TECplace - copia\\TECplace\\PostModule\\PostModule.csproj",
+  "projectFilePath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Home\\TECplace\\PostModule\\PostModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlo\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.3\\microsoft.win32.systemevents.9.0.3.nupkg.sha512",
     "C:\\Users\\Carlo\\.nuget\\packages\\system.drawing.common\\9.0.3\\system.drawing.common.9.0.3.nupkg.sha512"

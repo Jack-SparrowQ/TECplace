@@ -52,3 +52,31 @@ C:\Users\Carlo\source\repos\TECplace - copia\TECplace\Main-project\obj\Debug\net
 C:\Users\Carlo\source\repos\TECplace - copia\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.pdb
 C:\Users\Carlo\source\repos\TECplace - copia\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.genruntimeconfig.cache
 C:\Users\Carlo\source\repos\TECplace - copia\TECplace\Main-project\obj\Debug\net8.0-windows\ref\Main-project.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Main-project.exe
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Main-project.deps.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Main-project.runtimeconfig.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Main-project.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Main-project.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\FeedModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\FeedModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\bin\Debug\net8.0-windows\PostModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main_project.FeedForm.resources
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main_project.PostBox.resources
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.csproj.GenerateResource.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.AssemblyInfo.cs
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.sourcelink.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-pro.E7602AE0.Up2Date
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\refint\Main-project.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\Main-project.genruntimeconfig.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\Main-project\obj\Debug\net8.0-windows\ref\Main-project.dll
