@@ -139,11 +139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\LoginModule\\Login\\Authentication.csproj",
+      "projectUniqueName": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Authentication\\LoginModule\\Login\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "C:\\Users\\Carlo\\source\\repos\\LoginModule\\Login\\Authentication.csproj",
+      "projectPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Authentication\\LoginModule\\Login\\Authentication.csproj",
       "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlo\\source\\repos\\LoginModule\\Login\\obj\\",
+      "outputPath": "C:\\Users\\Carlo\\source\\best_projects\\TECplace\\Authentication\\LoginModule\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

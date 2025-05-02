@@ -1,4 +1,5 @@
 
+
 namespace Login
 {
     public partial class LoginForm : Form
@@ -7,11 +8,6 @@ namespace Login
         public LoginForm()
         {
             InitializeComponent();
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -27,7 +23,11 @@ namespace Login
             string password = textBox2.Text;
             if (username == "admin" && password == "admin")
             {
-                f2.ShowDialog();
+                correct = true;
+                MessageBox.Show("Login Successful");
+                this.Hide();
+                //MainForm f3 = new MainForm();
+               // f3.ShowDialog();
             }
             else
             {
