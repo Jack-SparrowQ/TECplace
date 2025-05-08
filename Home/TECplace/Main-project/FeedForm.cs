@@ -34,7 +34,7 @@ namespace Main_project
             flowLayoutPanelFeed = new FlowLayoutPanel
             {
                 AutoSize = true,
-               
+
                 FlowDirection = FlowDirection.TopDown,
                 WrapContents = false,
                 Padding = new Padding(20),
@@ -67,10 +67,10 @@ namespace Main_project
             flowLayoutPanelFeed.Controls.Clear();
 
 
-            feedService.AgregarPost(new Post { Author = "Juan",  Contenido = "Mi primer post", date = DateTime.Now });
+            feedService.AgregarPost(new Post { Author = "Juan", Contenido = "Mi primer post", date = DateTime.Now });
             feedService.AgregarPost(new Post { Author = "Maria", Contenido = "Hola a todos!", date = DateTime.Now.AddMinutes(-30) });
             feedService.AgregarPost(new Post { Author = "Carlos", Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
-            feedService.AgregarPost(new Post { Author = "Carlos",  Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
+            feedService.AgregarPost(new Post { Author = "Carlos", Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
             feedService.AgregarPost(new Post { Author = "David goggins", Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
             feedService.AgregarPost(new Post { Author = "the rock", Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
             feedService.AgregarPost(new Post { Author = "Mark z", Contenido = "¿Qué opinan del clima hoy?", date = DateTime.Now.AddHours(-1) });
@@ -86,6 +86,11 @@ namespace Main_project
         }
 
         private void FeedForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
