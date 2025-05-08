@@ -8,26 +8,11 @@ namespace Main_project
     public partial class FeedForm : Form
     {
         private FeedService feedService = new FeedService();
-        //private Panel panelContenedor;
-        //private FlowLayoutPanel flowLayoutPanelFeed;
+
         public FeedForm()
         {
             InitializeComponent();
-            //ConfigurarUI();
             CargarFeed();
-        }
-
-        private void ConfigurarUI()
-        {
-            this.Text = "Feed";
-            this.Size = new System.Drawing.Size(1200, 800);
-            this.StartPosition = FormStartPosition.CenterScreen;
-
-            // Panel contenedor centrado
-
-            // FlowLayoutPanel para los posts
-
-            // Agregar FlowLayoutPanel dentro de un Panel
         }
 
 
@@ -66,6 +51,21 @@ namespace Main_project
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel_Paint(object sender, PaintEventArgs e)
         {
 
         }
