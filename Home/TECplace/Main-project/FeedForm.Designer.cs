@@ -37,11 +37,20 @@
             flowLayoutPanel = new FlowLayoutPanel();
             panelContedor = new Panel();
             tableLayoutPanel1 = new TableLayoutPanel();
+            label1 = new Label();
+            groupBox1 = new GroupBox();
+            flowLayoutPanel3 = new FlowLayoutPanel();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton3 = new RadioButton();
+            button1 = new Button();
             flowLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             panelContedor.SuspendLayout();
             tableLayoutPanel1.SuspendLayout();
+            groupBox1.SuspendLayout();
+            flowLayoutPanel3.SuspendLayout();
             SuspendLayout();
             // 
             // flowLayoutPanel1
@@ -111,10 +120,10 @@
             flowLayoutPanel.AutoScroll = true;
             flowLayoutPanel.Dock = DockStyle.Fill;
             flowLayoutPanel.FlowDirection = FlowDirection.TopDown;
-            flowLayoutPanel.Location = new Point(243, 163);
+            flowLayoutPanel.Location = new Point(190, 163);
             flowLayoutPanel.Name = "flowLayoutPanel";
             flowLayoutPanel.Padding = new Padding(20);
-            flowLayoutPanel.Size = new Size(791, 614);
+            flowLayoutPanel.Size = new Size(844, 614);
             flowLayoutPanel.TabIndex = 0;
             flowLayoutPanel.WrapContents = false;
             flowLayoutPanel.Paint += flowLayoutPanel_Paint;
@@ -134,11 +143,12 @@
             // tableLayoutPanel1
             // 
             tableLayoutPanel1.ColumnCount = 3;
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 23.1231232F));
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 76.87688F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 18.0327873F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 81.96722F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 213F));
             tableLayoutPanel1.Controls.Add(flowLayoutPanel1, 2, 0);
             tableLayoutPanel1.Controls.Add(flowLayoutPanel, 1, 1);
+            tableLayoutPanel1.Controls.Add(flowLayoutPanel3, 0, 1);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(0, 0);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -147,6 +157,80 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 79.48276F));
             tableLayoutPanel1.Size = new Size(1251, 780);
             tableLayoutPanel1.TabIndex = 1;
+            tableLayoutPanel1.Paint += tableLayoutPanel1_Paint;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(3, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(42, 20);
+            label1.TabIndex = 1;
+            label1.Text = "Filter";
+            // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(radioButton3);
+            groupBox1.Controls.Add(radioButton2);
+            groupBox1.Controls.Add(radioButton1);
+            groupBox1.Location = new Point(3, 23);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(167, 149);
+            groupBox1.TabIndex = 0;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Categorias";
+            // 
+            // flowLayoutPanel3
+            // 
+            flowLayoutPanel3.Controls.Add(label1);
+            flowLayoutPanel3.Controls.Add(groupBox1);
+            flowLayoutPanel3.Controls.Add(button1);
+            flowLayoutPanel3.Location = new Point(3, 163);
+            flowLayoutPanel3.Name = "flowLayoutPanel3";
+            flowLayoutPanel3.Size = new Size(181, 279);
+            flowLayoutPanel3.TabIndex = 2;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(11, 36);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(97, 24);
+            radioButton1.TabIndex = 0;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Breakfasts";
+            radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(12, 71);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(71, 24);
+            radioButton2.TabIndex = 1;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "Drinks";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.Location = new Point(11, 104);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(67, 24);
+            radioButton3.TabIndex = 2;
+            radioButton3.TabStop = true;
+            radioButton3.Text = "Snaks";
+            radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(3, 178);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 29);
+            button1.TabIndex = 2;
+            button1.Text = "Apply";
+            button1.UseVisualStyleBackColor = true;
             // 
             // FeedForm
             // 
@@ -166,6 +250,10 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             panelContedor.ResumeLayout(false);
             tableLayoutPanel1.ResumeLayout(false);
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            flowLayoutPanel3.ResumeLayout(false);
+            flowLayoutPanel3.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
 
@@ -189,5 +277,12 @@
         private FlowLayoutPanel flowLayoutPanel;
         private Panel panelContedor;
         private TableLayoutPanel tableLayoutPanel1;
+        private Label label1;
+        private GroupBox groupBox1;
+        private FlowLayoutPanel flowLayoutPanel3;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
+        private Button button1;
     }
 }
