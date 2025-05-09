@@ -36,10 +36,12 @@
             flowLayoutPanel2 = new FlowLayoutPanel();
             flowLayoutPanel = new FlowLayoutPanel();
             panelContedor = new Panel();
+            tableLayoutPanel1 = new TableLayoutPanel();
             flowLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             panelContedor.SuspendLayout();
+            tableLayoutPanel1.SuspendLayout();
             SuspendLayout();
             // 
             // flowLayoutPanel1
@@ -48,9 +50,9 @@
             flowLayoutPanel1.Controls.Add(profileBtn);
             flowLayoutPanel1.Controls.Add(pictureBox2);
             flowLayoutPanel1.Controls.Add(settingsBtn);
-            flowLayoutPanel1.Location = new Point(711, 19);
+            flowLayoutPanel1.Location = new Point(1040, 3);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(213, 118);
+            flowLayoutPanel1.Size = new Size(207, 112);
             flowLayoutPanel1.TabIndex = 0;
             flowLayoutPanel1.Paint += flowLayoutPanel1_Paint;
             // 
@@ -98,7 +100,7 @@
             flowLayoutPanel2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom;
             flowLayoutPanel2.AutoSize = true;
             flowLayoutPanel2.AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            flowLayoutPanel2.Location = new Point(128, 67);
+            flowLayoutPanel2.Location = new Point(285, 67);
             flowLayoutPanel2.Name = "flowLayoutPanel2";
             flowLayoutPanel2.Size = new Size(0, 0);
             flowLayoutPanel2.TabIndex = 1;
@@ -107,11 +109,12 @@
             // flowLayoutPanel
             // 
             flowLayoutPanel.AutoScroll = true;
+            flowLayoutPanel.Dock = DockStyle.Fill;
             flowLayoutPanel.FlowDirection = FlowDirection.TopDown;
-            flowLayoutPanel.Location = new Point(18, 30);
+            flowLayoutPanel.Location = new Point(243, 163);
             flowLayoutPanel.Name = "flowLayoutPanel";
             flowLayoutPanel.Padding = new Padding(20);
-            flowLayoutPanel.Size = new Size(483, 512);
+            flowLayoutPanel.Size = new Size(791, 614);
             flowLayoutPanel.TabIndex = 0;
             flowLayoutPanel.WrapContents = false;
             flowLayoutPanel.Paint += flowLayoutPanel_Paint;
@@ -120,29 +123,49 @@
             // 
             panelContedor.AutoScroll = true;
             panelContedor.AutoSize = true;
-            panelContedor.Controls.Add(flowLayoutPanel);
-            panelContedor.Location = new Point(189, 12);
+            panelContedor.Controls.Add(tableLayoutPanel1);
+            panelContedor.Dock = DockStyle.Fill;
+            panelContedor.Location = new Point(0, 0);
             panelContedor.Name = "panelContedor";
-            panelContedor.Size = new Size(504, 557);
+            panelContedor.Size = new Size(1251, 780);
             panelContedor.TabIndex = 2;
+            panelContedor.Paint += panelContedor_Paint;
+            // 
+            // tableLayoutPanel1
+            // 
+            tableLayoutPanel1.ColumnCount = 3;
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 23.1231232F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 76.87688F));
+            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Absolute, 213F));
+            tableLayoutPanel1.Controls.Add(flowLayoutPanel1, 2, 0);
+            tableLayoutPanel1.Controls.Add(flowLayoutPanel, 1, 1);
+            tableLayoutPanel1.Dock = DockStyle.Fill;
+            tableLayoutPanel1.Location = new Point(0, 0);
+            tableLayoutPanel1.Name = "tableLayoutPanel1";
+            tableLayoutPanel1.RowCount = 2;
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 20.51724F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 79.48276F));
+            tableLayoutPanel1.Size = new Size(1251, 780);
+            tableLayoutPanel1.TabIndex = 1;
             // 
             // FeedForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            AutoSize = true;
-            ClientSize = new Size(936, 581);
+            ClientSize = new Size(1251, 780);
             Controls.Add(panelContedor);
             Controls.Add(flowLayoutPanel2);
-            Controls.Add(flowLayoutPanel1);
             Name = "FeedForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
+            WindowState = FormWindowState.Maximized;
             Load += FeedForm_Load;
             Resize += FeedForm_Resize;
             flowLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             panelContedor.ResumeLayout(false);
+            tableLayoutPanel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
 
@@ -165,5 +188,6 @@
         private FlowLayoutPanel flowLayoutPanel2;
         private FlowLayoutPanel flowLayoutPanel;
         private Panel panelContedor;
+        private TableLayoutPanel tableLayoutPanel1;
     }
 }

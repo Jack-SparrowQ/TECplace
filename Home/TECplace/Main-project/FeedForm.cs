@@ -69,5 +69,10 @@ namespace Main_project
         {
 
         }
+
+        private void panelContedor_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
