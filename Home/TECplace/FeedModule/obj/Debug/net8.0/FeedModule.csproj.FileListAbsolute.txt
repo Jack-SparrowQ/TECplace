@@ -1,0 +1,46 @@
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.deps.json
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.Up2Date
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\refint\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\repos\TECplace\TECplace\FeedModule\obj\Debug\net8.0\ref\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.deps.json
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.Up2Date
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\refint\FeedModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\FeedModule\obj\Debug\net8.0\ref\FeedModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.deps.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\bin\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.AssemblyInfo.cs
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.sourcelink.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.csproj.Up2Date
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\refint\FeedModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\FeedModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\FeedModule\obj\Debug\net8.0\ref\FeedModule.dll

@@ -1,0 +1,43 @@
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\bin\Debug\net8.0\PostModule.deps.json
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\refint\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\ref\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\Interop.ComctlLib.dll
+C:\Users\Carlo\source\repos\TECplace\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.ResolveComReference.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\bin\Debug\net8.0\PostModule.deps.json
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\Interop.ComctlLib.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.ResolveComReference.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\refint\PostModule.dll
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\repos\TECplace - copia\TECplace\PostModule\obj\Debug\net8.0\ref\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\bin\Debug\net8.0\PostModule.deps.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\bin\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\bin\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\Interop.ComctlLib.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.ResolveComReference.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.AssemblyInfo.cs
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.sourcelink.json
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\refint\PostModule.dll
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\PostModule.pdb
+C:\Users\Carlo\source\best_projects\TECplace\Home\TECplace\PostModule\obj\Debug\net8.0\ref\PostModule.dll
