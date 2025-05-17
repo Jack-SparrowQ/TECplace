@@ -70,10 +70,7 @@ namespace Main_project
 
         }
 
-        private void panelContedor_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+        private void panelContedor_Paint(object sender, PaintEventArgs e) { }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
